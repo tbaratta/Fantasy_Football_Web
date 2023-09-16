@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fantasy Football Player Stats</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>NFL Fantasy Football Players Stats 2022</h1>
+    </header>
+    <div class="container">
+        <h2>Sort Players by Statistic</h2>
+        <form>
+            <label for="statistic">Select a statistic for sorting:</label>
+            <select id="statistic">
+                <option value="passyrds">Avg Passing Yards / Game Played</option>
+                <option value="rushyrds">Avg Rushing Yards / Game Played</option>
+                <option value="recyards">Avg Receiving Yards / Game Played</option>
+                <option value="receptions">Avg Receptions / Game Played</option>
+                <option value="targets">Avg Targets / Game Played</option>
+                <option value="td">Avg Total Touchdowns / Game Played</option>
+                <option value="attempts">Avg Rushing Attempts / Game Played</option>
+            </select>
+            <input type="submit" value="Sort">
+        </form>
+        <h2>Sorted Players</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Position</th>
+                    <th id="selected-statistic">Statistic</th>
+                </tr>
+            </thead>
+            <tbody id="player-stats">
+            </tbody>
+        </table>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
