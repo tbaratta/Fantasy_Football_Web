@@ -32,9 +32,9 @@ This project was made with the help of [Javascriptmastery](https://www.youtube.c
 
 ## Features <a name="features"></a>
 
-- **Modern User Interface:** A visually appealing and fully functional user interface.
+- **Modern User Interface:** A visually appealing and fully functional user interface built and designed by [Javascriptmastery]((https://www.youtube.com/@javascriptmastery).
 - **Summary Generation:** Allows users to input the URL of an article in which the web application summarizes using AI.
-- **History Saving:** The web app includes a history feeature that allows users to save their summaries locally to provide convenience for the user.
+- **History Saving:** Allows users to save their summaries locally for convenience.
 - **RTK Query API Request:** Leverages Redux ToolKit (RTK) query for API requests.
 
 ## Quick Start <a name="quick-start"></a>
