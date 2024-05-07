@@ -7,14 +7,14 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 - [Introduction](#introduction)
 - [Features](#features)
 - [Quick Start](#quick-start)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Configuration](#configuration)
-  - [Testing](#testing)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Contact](#contact)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Testing](#testing)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ## Introduction <a name="introduction"></a>
 
