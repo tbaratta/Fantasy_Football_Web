@@ -5,6 +5,7 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Prerequisites](#prerequisites)
@@ -21,6 +22,9 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 Summize is a website that transforms lengthy articles to a short and concise summary using artificial intelligence.
 
 This project was made with the help of [Javascriptmastery](https://www.youtube.com/@javascriptmastery) on Youtube.
+
+## Tech Stack <a name="tech-stack"></a>
+
 
 ## Features <a name="features"></a>
 
