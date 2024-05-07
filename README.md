@@ -25,13 +25,17 @@ This project was made with the help of [Javascriptmastery](https://www.youtube.c
 
 ## Tech Stack <a name="tech-stack"></a>
 
+- React.js
+- Typescript
+- Redux ToolKit
+- Tailwind CSS
 
 ## Features <a name="features"></a>
 
-- **Feature 1:** Description of feature 1.
-- **Feature 2:** Description of feature 2.
-- **Feature 3:** Description of feature 3.
-- ...
+- **Modern User Interface:** A visually appealing and fully functional user interface.
+- **Summary Generation:** Allows users to input the URL of an article in which the web application summarizes using AI.
+- **History Saving:** The web app includes a history feeature that allows users to save their summaries locally to provide convenience for the user.
+- **RTK Query API Request:** Leverages Redux ToolKit (RTK) query for API requests.
 
 ## Quick Start <a name="quick-start"></a>
 
