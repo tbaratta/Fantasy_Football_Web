@@ -10,12 +10,6 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 - [Quick Start](#quick-start)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction <a name="introduction"></a>
 
@@ -77,27 +71,3 @@ Before you begin, make sure to install the following:
     ```
    Open http://localhost:5173 in your browser to view the project.
    
-
-### Usage <a name="usage"></a>
-
-[Provide instructions for using the project. This could include commands to run the application, examples of usage, or anything else relevant to getting started.]
-
-### Configuration <a name="configuration"></a>
-
-[If the project requires configuration, provide instructions or reference files for configuring the application.]
-
-### Testing <a name="testing"></a>
-
-[Instructions for running tests, if available. Include any prerequisites or dependencies required for testing.]
-
-### Contributing <a name="contributing"></a>
-
-[Explain how others can contribute to the project. This could include guidelines for pull requests, code style, or other contribution guidelines.]
-
-### License <a name="license"></a>
-
-[Specify the license under which the project is distributed.]
-
-### Contact <a name="contact"></a>
-
-[Provide contact information for the project maintainer or team, in case users have questions or feedback.]
