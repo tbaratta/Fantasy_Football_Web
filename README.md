@@ -1,7 +1,7 @@
 # Project Name
 
-[Click Here to See the Project in Action!](https://prismatic-pavlova-22cb2c.netlify.app/)](https://prismatic-pavlova-22cb2c.netlify.app/)
 
+[Click Here](https://prismatic-pavlova-22cb2c.netlify.app/)
 ## Table of Contents
 
 - [Introduction](#introduction)
