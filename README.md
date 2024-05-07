@@ -1,5 +1,7 @@
 # Project Name
 
+![Project Logo](Users/tommybarata/Desktop/img.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
