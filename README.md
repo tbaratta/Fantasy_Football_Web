@@ -11,7 +11,7 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 
 ## 🤖 Introduction <a name="introduction"></a>
 
-Summize is a web application that transforms lengthy articles to a short and concise summary using artificial intelligence.
+Summize is a web application that transforms lengthy articles into a short and concise summary using artificial intelligence.
 
 This project was made with the help of [Javascriptmastery](https://www.youtube.com/@javascriptmastery) on Youtube.
 
@@ -25,7 +25,7 @@ This project was made with the help of [Javascriptmastery](https://www.youtube.c
 ## 🛠️ Features <a name="features"></a>
 
 - **Modern User Interface:** A visually appealing and fully functional user interface built and designed by [Javascriptmastery](https://www.youtube.com/@javascriptmastery).
-- **Summary Generation:** Allows users to input the URL of an article in which the web application summarizes using AI.
+- **Summary Generation:** Allows users to input the URL of an article, which the web application summarizes using AI.
 - **History Saving:** Allows users to save their summaries locally for convenience.
 - **RTK Query API Request:** Leverages the Redux ToolKit (RTK) query for API requests.
 
