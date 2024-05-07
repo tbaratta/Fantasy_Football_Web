@@ -8,8 +8,6 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 - [Tech Stack](#tech-stack)
 - [Features](#features)
 - [Quick Start](#quick-start)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 
 ## Introduction <a name="introduction"></a>
 
