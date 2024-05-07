@@ -41,11 +41,11 @@ This project was made with the help of [Javascriptmastery](https://www.youtube.c
 
 ### Prerequisites <a name="prerequisites"></a>
 
-Before you begin, ensure you have met the following requirements:
+Before you begin, make sure to install the following:
 
-- [Requirement 1]
-- [Requirement 2]
-- ...
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/)
 
 ### Installation <a name="installation"></a>
 
