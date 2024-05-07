@@ -65,7 +65,7 @@ Before you begin, make sure to install the following:
    ```bash
     npm install
     ```
-4. Create a new file named .env in the roof of your project and add the following:
+4. Create a new file named .env in the root of your project and add the following:
    ```bash
     VITE_RAPID_API_ARTICLE_KEY=
     ```
