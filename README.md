@@ -2,12 +2,12 @@
 
 Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project website.
 
-## Table of Contents
+## 🗒️Table of Contents
 
-- [Introduction](#introduction)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Quick Start](#quick-start)
+- 🤖[Introduction](#introduction)
+- ⚙️[Tech Stack](#tech-stack)
+- 🛠️[Features](#features)
+- 🎬[Quick Start](#quick-start)
 
 ## Introduction <a name="introduction"></a>
 
