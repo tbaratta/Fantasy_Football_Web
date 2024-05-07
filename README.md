@@ -1,7 +1,7 @@
 # Project Name
 
+Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project logo.
 
-[Click Here](https://prismatic-pavlova-22cb2c.netlify.app/)
 ## Table of Contents
 
 - [Introduction](#introduction)
