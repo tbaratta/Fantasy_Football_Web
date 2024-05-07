@@ -1,4 +1,4 @@
-# Project Name
+# Summize
 
 Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project website.
 
@@ -18,7 +18,9 @@ Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project 
 
 ## Introduction <a name="introduction"></a>
 
-[Project Name] is a [brief description of the project]. It is designed to [explain the purpose or goal of the project]. This README provides an overview of its features and instructions for getting started.
+Summize is a website that transforms lengthy articles to a short and concise summary using artificial intelligence.
+
+This project was made with the help of [Javascriptmastery](https://www.youtube.com/@javascriptmastery) on Youtube.
 
 ## Features <a name="features"></a>
 
