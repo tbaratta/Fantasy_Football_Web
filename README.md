@@ -61,7 +61,22 @@ Before you begin, make sure to install the following:
     cd AI_Summarizer
     ```
 
-3. [Additional installation steps, if any]
+3. Install npm:
+   ```bash
+    npm install
+    ```
+4. Create a new file named .env in the roof of your project and add the following:
+   ```bash
+    VITE_RAPID_API_ARTICLE_KEY=
+    ```
+   Visit [Rapid API Website](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel) to replace the placeholder value.
+
+5. Run the Project
+   ```bash
+    npm run dev
+    ```
+   Open http://localhost:5173 in your browser to view the project.
+   
 
 ### Usage <a name="usage"></a>
 
