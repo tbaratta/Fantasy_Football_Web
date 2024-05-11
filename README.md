@@ -1,6 +1,6 @@
 # Fantasy Football Statistics Website
 
-Click [here](https://prismatic-pavlova-22cb2c.netlify.app/) to view the project website.
+Click [here](https://tbaratta.github.io/Fantasy_Football_Web/) to view the project website.
 
 
 
