@@ -13,3 +13,4 @@ This website was created to highlight in-depth football statistics from an array
 - C (Prototype)
 - HTML
 - CSS
+- JavaScript
